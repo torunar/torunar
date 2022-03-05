@@ -22,7 +22,7 @@ Areas I am proficient in:
 * Mentoring.
 * Agile methodologies.
 
-### Thigs I do
+### Things I do
 
 On my daily basis I assist 3 cross-functional development teams of 12 amazing people. I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. As a developer, I create new features for CS-Cart products and services, perform code review, write tests and do other curious things programmers usually do.
 
