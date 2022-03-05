@@ -29,5 +29,5 @@ On my daily basis I assist 3 cross-functional development teams of 12 amazing pe
 ### How to reach me
 
 <a href="https://www.linkedin.com/in/mikhail-schekotov-968103210/">
-  <img src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
+  <img width="32px" height="32px" src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
 </a>
