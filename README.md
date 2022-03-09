@@ -11,6 +11,7 @@ I am skilled in PHP development and team leadership.
 I am exprienced with:
 * PHP 7 and PHP 8.
 * MySQL and PostgreSQL.
+* RestAPI and GraphQL.
 * Javascript (ES6, jQuery).
 * CI/CD via TeamCity and Jenkins.
 * Testing via PHPUnit and Behat.
