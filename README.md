@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I am Mikhail, head of the development department at [CS-Cart](https://www.cs-cart.com/). 
+I am Mikhail, team lead at [Boozt](https://www.boozt.com).
 
-In our company we create the eCommerce products that help businesses to launch fast and scale vast.
+In our company we build the biggest department store in the Nordics!
 
 ### My skills
 
 I am skilled in PHP development and team leadership.
 
 I am exprienced with:
-* PHP 7 and PHP 8.
+* PHP 7 and PHP 8 (Symfony, Laravel).
 * MySQL and PostgreSQL.
 * RestAPI and GraphQL.
 * Javascript (ES6, jQuery).
@@ -19,13 +19,14 @@ I am exprienced with:
 
 Areas I am proficient in:
 * eCommerce.
+* Financial applications.
 * Team leadership and team management.
 * Mentoring.
 * Agile methodologies.
 
 ### Things I do
 
-On my daily basis I assist 3 cross-functional development teams of 12 amazing people. I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. As a developer, I create new features for CS-Cart products and services, perform code review, write tests and do other curious things programmers usually do.
+On my daily basis I assist a cross-functional development team. I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. As a developer, I create new features for a finance department automation system, perform code review, write tests and do other curious things programmers usually do.
 
 ### How to reach me
 
