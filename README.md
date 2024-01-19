@@ -30,6 +30,6 @@ On my daily basis I assist a cross-functional development team. I aim to create 
 
 ### How to reach me
 
-<a href="https://www.linkedin.com/in/mikhail-shchekotov-968103210/">
+<a href="https://www.linkedin.com/in/mikhail-shchekotov/">
   <img width="32px" height="32px" src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
 </a>
