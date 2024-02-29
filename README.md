@@ -8,12 +8,12 @@ In our company we build the biggest department store in the Nordics!
 
 I am skilled in PHP development and team leadership.
 
-I am exprienced with:
-* PHP 7 and PHP 8 (Symfony, Laravel).
+I have exprienced with:
+* PHP 8 (Symfony, Laravel).
 * MySQL and PostgreSQL.
 * RestAPI and GraphQL.
-* Javascript (ES6, jQuery).
-* CI/CD via TeamCity and Jenkins.
+* Javascript (ES6, React).
+* CI/CD via TeamCity, GitLab and Jenkins.
 * Testing via PHPUnit and Behat.
 * Docker.
 
@@ -26,7 +26,9 @@ Areas I am proficient in:
 
 ### Things I do
 
-On my daily basis I assist a cross-functional development team. I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. As a developer, I create new features for a finance department automation system, perform code review, write tests and do other curious things programmers usually do.
+On my daily basis I assist a cross-functional development team.
+I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. 
+As a developer, I create new features for a finance department automation system, perform code review, write tests and do other curious things programmers usually do.
 
 ### How to reach me
 
