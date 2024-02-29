@@ -8,7 +8,7 @@ In our company we build the biggest department store in the Nordics!
 
 I am skilled in PHP development and team leadership.
 
-I have exprienced with:
+I have exprience with:
 * PHP 8 (Symfony, Laravel).
 * MySQL and PostgreSQL.
 * RestAPI and GraphQL.
