@@ -6,29 +6,32 @@ In our company we build the biggest department store in the Nordics!
 
 ### My skills
 
-I am skilled in PHP development and team leadership.
+I am skilled in team leadership, system design and development.
 
-I have exprience with:
+I have a lot of practical experience with:
 * PHP 8 (Symfony, Laravel).
 * MySQL and PostgreSQL.
+* Docker.
 * RestAPI and GraphQL.
 * Javascript (ES6, React).
 * CI/CD via TeamCity, GitLab and Jenkins.
 * Testing via PHPUnit and Behat.
-* Docker.
 
-Areas I am proficient in:
-* eCommerce.
-* Financial applications.
-* Team leadership and team management.
+Im proficient at:
+* Team leadership and process management.
+* Financial applications development.
+* eCommerce solutions development.
 * Mentoring.
 * Agile methodologies.
 
 ### Things I do
 
 On my daily basis I assist a cross-functional development team.
-I aim to create friendly and inclusive working environment where people will be able to on-board quickly and grow sustainably. 
-As a developer, I create new features for a finance department automation system, perform code review, write tests and do other curious things programmers usually do.
+As a team leader, I create a working environment where people on-board quickly, grow sustainably, and have ownership over the projects they develop.
+In such environment understanding business values and processes is the main priority.
+
+As a developer, I automate different aspects of Boozt financial department routine: from transaction storage to actual accounting, reconciliation and auditing processes.
+I perform case studies, experiments with MVPs, design and build solutions, do end-to-end testing and work with user feedback.
 
 ### How to reach me
 
