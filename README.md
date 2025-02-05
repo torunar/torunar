@@ -19,7 +19,7 @@ I have a lot of practical experience with:
 
 Im proficient at:
 * Team leadership and process management.
-* Financial applications development.
+* ERP systems.
 * eCommerce solutions development.
 * Mentoring.
 * Agile methodologies.
